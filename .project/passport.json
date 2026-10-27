@@ -1,0 +1,25 @@
+{
+  "schema": "project-passport/1",
+  "id": "rpg-story-generator",
+  "name": "Генератор ролевых историй",
+  "summary": "Замысел расширяемой RPG из событий и решений: новые ситуации, существа и параметры персонажей предполагается добавлять с помощью GPT, включая продолжение приключения после дополнения кода. В репозитории пока только описание идеи, без реализации.",
+  "kind": "creative",
+  "workflow": {
+    "profile": "standard"
+  },
+  "repositories": [
+    {
+      "role": "primary",
+      "url": "https://github.com/ViskyG/StoryGenerator"
+    }
+  ],
+  "tags": [
+    "rpg",
+    "procedural-narrative",
+    "gpt",
+    "concept"
+  ],
+  "references": {
+    "document_1": "README.md"
+  }
+}
